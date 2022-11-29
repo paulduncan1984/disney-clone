@@ -1,10 +1,12 @@
 import React from "react";
 import styled from "styled-components";
+import ImgSlider from "./ImgSlider";
+import "../App.css";
 
 function Home() {
   return (
     <Container>
-      <h1>Home</h1>
+      <ImgSlider />
     </Container>
   );
 }
