@@ -8,7 +8,7 @@ function Header() {
       <NavMenu>
         <a>
           <img src="/images/home-icon.svg" />
-          <span>HOME</span>
+          <span>HOMEs</span>
         </a>
         <a>
           <img src="/images/search-icon.svg" />
